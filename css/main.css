@@ -1,0 +1,40 @@
+body {
+	background-color: #1a000d;
+	text-align: center;
+	color: #ffffff;
+	width: 35%
+	margin: 150px
+	border-style: solid;
+	border-radius: 8px;
+	padding: 25px, 25px;
+}
+
+#container {
+ 	background-color: #4d0026;
+ 	margin-top: 80px;
+ 	margin-bottom: 80px;
+ 	border-style: solid;
+ 	border-radius: 8px;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: bold;
+	color: #ffffff;
+}
+
+#box {
+	background-color: #800040;
+	color: #ffffff;
+	border-style: solid;
+	border-radius: 8px;
+	margin-bottom: 80px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* Don't touch the padding or margin, this will ensure the divs stay centered!*/
